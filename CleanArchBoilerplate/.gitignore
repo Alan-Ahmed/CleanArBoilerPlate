@@ -1,0 +1,17 @@
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.tmp
+*.vs/
+*.vscode/
+*.user
+*.suo
+*.psess
+*.vsp
+*.db
+*.sqlite
+*.DS_Store
